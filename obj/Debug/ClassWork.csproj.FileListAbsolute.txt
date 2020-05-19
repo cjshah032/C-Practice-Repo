@@ -1,0 +1,7 @@
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\bin\Debug\ClassWork.exe.config
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\bin\Debug\ClassWork.exe
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\bin\Debug\ClassWork.pdb
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\obj\Debug\ClassWork.exe
+C:\Users\CHINMAY SHAH\source\repos\ClassWork\obj\Debug\ClassWork.pdb
